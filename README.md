@@ -1,4 +1,4 @@
-- 👋 Oie, eu sou a @malukkz
+- 👋  Oie, eu sou a @malukkz
 - 👀  Estou interessada em ser programadora
 - 🌱  Gosto muito de estudar, fazer programação
 - 💞️  Eu sou estudante do novo Ensino Medio
